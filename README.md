@@ -45,6 +45,9 @@ to run publisher:
 
 	rosrun composiv_tryouts composiv_talker.py
 
+![Screenshot from 2022-11-27 16-50-06](https://user-images.githubusercontent.com/72387579/204138791-73dcca91-768f-44ff-b91d-9ae61964d81d.png)
+
+
      
 	
 	
