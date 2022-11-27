@@ -2,7 +2,8 @@
 Message passing in ROS happens with the Publisher Subscriber Interface provided by ROS library functions.
 A ROS Node can be a Publisher or a Subscriber. A Publisher is the one puts the messages of some standard Message Type to a particular Topic. The Subscriber on the other hand subscribes to the Topic so that it receives the messages whenever any message is published to the Topic.  
 All the IP addresses of various nodes are tracked by the ROS Master.
-### My graph
+### My rosgraph
+![rosgraph](https://user-images.githubusercontent.com/72387579/204141039-6c6b2688-cd10-440f-b8ba-476cd2587c59.png)
 
 
 
